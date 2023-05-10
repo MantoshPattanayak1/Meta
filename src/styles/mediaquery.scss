@@ -1,0 +1,32 @@
+@media screen and (max-width:800px){
+   .home3{
+    height:130vh;
+
+   }
+   >div{
+    height:120vh;
+   } 
+   .contact>main{
+    height:100vh;
+   }
+}
+@media screen and (max-width:700px){
+    nav{
+        >h1{
+            display:none;
+        }
+        >main{
+            width:98%;
+            justify-content: center;
+        }
+        a{
+            margin:0.5rem;
+        }
+    }
+    .home>main{
+        align-items:center;
+        h1{
+         font-size: 3rem;
+        }
+    }
+}
