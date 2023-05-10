@@ -6,7 +6,7 @@ const Footer = () => {
     <div>
         <h1>
             MetaMan<br></br>
-            (Mantosh Pattanayak)
+            (By: Mantosh Pattanayak)
         </h1>
         <p>
             @all right reserved
